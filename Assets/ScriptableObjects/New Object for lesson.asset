@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23058b73488a53a4aacf4bb5ef860fc5, type: 3}
+  m_Name: New Object for lesson
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5986752372673423383, guid: 84485e93d85103f4e83ce083c8683a9c, type: 3}
+  amountOfPrefabs: 3
+  spawnDelay: 2
+  speed: 10
+  canSpawn: 1
+  prefabName:
+  - David
+  - Joseph
+  - Carl
